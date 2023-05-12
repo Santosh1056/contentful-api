@@ -25,8 +25,6 @@ Setup Hero component.
 
 Explore data.js
 
-Space Id - yn3gdvevuxw4;
-Access token - HSsYoa0ZTQqMrptBMVl-T77xsML9FSe2OM1fzUzC-8w
 
 #### Headless CMS
 
